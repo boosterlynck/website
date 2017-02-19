@@ -43,7 +43,7 @@ html, body {
 body {
 	background-color: #000;
 	color: #fff;
-	font-size: 12px;
+	font-size: 14px;
 	line-height: 1.5;
 	overflow: hidden;
 }
@@ -187,14 +187,14 @@ h2 a{
     transform: translateZ(0);
 	float: left;
 	height: 100%;
-	opacity: 0.25;
+	opacity: 0.27;
 }
 
  #pictures video{
  		
 	float: left;
 	height: 100%;
-	opacity: 0.25;
+	opacity: 0.27;
 }
 
 /* --------- THUMBNAILS ----------- */
@@ -351,7 +351,7 @@ h2 a{
 	-moz-user-select: none;
   	-webkit-user-select: none;
   	-ms-user-select: none;
-	font-size: 16px;
+	font-size: 14px;
 	padding: 30px;
 	z-index: 99;
 
@@ -790,7 +790,7 @@ article aside img, article aside video {
 @media screen and (orientation:portrait), screen and (max-width:1280px) {
 
  	body, #contact-page .texts > div, p { 
- 		font-size:7px; 
+ 		font-size:9px; 
  	}
 
  	#about-page h1 {
@@ -837,11 +837,11 @@ article aside img, article aside video {
 @media screen and (orientation:landscape) and (-webkit-min-device-pixel-ratio: 1.3), screen and (device-width: 768px) and (device-height: 1024px) and (orientation:landscape), screen and (-webkit-min-device-pixel-ratio: 2), screen and (min-resolution: 192dpi) {
 
 	body, #contact-page .texts > div { 
-		font-size:4px; 
+		font-size:5px; 
 	}
 
 	p {
-		font-size:7px; 		
+		font-size:9px; 		
 	}
 	
 	#imageName {
@@ -918,11 +918,11 @@ and (max-device-width : 1024px)
 and (-webkit-min-device-pixel-ratio: 2) {
 
 	body, #contact-page .texts > div { 
-		font-size:12px; 
+		font-size:14px; 
 	}
 
 	p {
-		font-size:12px; 		
+		font-size:14px; 		
 	}
 	#thumbs img {
 		height: 90px;
@@ -972,7 +972,7 @@ only screen and (           min-resolution: 192dpi) and (min-device-width: 1025p
 only screen and (            min-resolution: 2dppx) and (min-device-width: 1025px) {
 
     body, #contact-page .texts > div { 
-		font-size:12px; 
+		font-size:14px; 
 	}
 
 	#sidebar{
@@ -980,7 +980,7 @@ only screen and (            min-resolution: 2dppx) and (min-device-width: 1025p
 	}
 
 	p {
-		font-size:12px; 		
+		font-size:14px; 		
 	}
 	#thumbs img, #thumbs video {
 		height: 120px;

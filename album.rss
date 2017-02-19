@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>bernard oosterlynck</title>
+   	<link>.</link>
+        <generator>jAlbum 13.10</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Studio-1</title>
+            <link>slides/Studio-1.jpg</link>
+            <pubDate>Sat, 18 Feb 2017 18:21:33 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Studio-1.jpg" width="83" height="124"/>
+            <media:content type="image/jpeg" url="slides/Studio-1.jpg" width="720" height="1080"/>
+            <guid isPermaLink="false">slides/Studio-1.jpg</guid>
+        </item>
+        <item>
+            <title>Studio-2</title>
+            <link>slides/Studio-2.jpg</link>
+            <pubDate>Sat, 18 Feb 2017 18:21:33 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Studio-2.jpg" width="83" height="124"/>
+            <media:content type="image/jpeg" url="slides/Studio-2.jpg" width="720" height="1080"/>
+            <guid isPermaLink="false">slides/Studio-2.jpg</guid>
+        </item>
+        <item>
+            <title>Studio-3</title>
+            <link>slides/Studio-3.jpg</link>
+            <pubDate>Sat, 18 Feb 2017 18:21:33 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Studio-3.jpg" width="83" height="124"/>
+            <media:content type="image/jpeg" url="slides/Studio-3.jpg" width="720" height="1080"/>
+            <guid isPermaLink="false">slides/Studio-3.jpg</guid>
+        </item>
+        <item>
+            <title>Beth-1</title>
+            <link>slides/Beth-1.jpg</link>
+            <pubDate>Sat, 18 Feb 2017 18:21:33 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Beth-1.jpg" width="83" height="124"/>
+            <media:content type="image/jpeg" url="slides/Beth-1.jpg" width="720" height="1080"/>
+            <guid isPermaLink="false">slides/Beth-1.jpg</guid>
+        </item>
+        <item>
+            <title>Studio-4</title>
+            <link>slides/Studio-4.jpg</link>
+            <pubDate>Sat, 18 Feb 2017 18:21:33 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Studio-4.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/Studio-4.jpg" width="1620" height="1080"/>
+            <guid isPermaLink="false">slides/Studio-4.jpg</guid>
+        </item>
+        <item>
+            <title>Model-8</title>
+            <link>slides/Model-8.jpg</link>
+            <pubDate>Sat, 18 Feb 2017 18:21:33 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Model-8.jpg" width="83" height="124"/>
+            <media:content type="image/jpeg" url="slides/Model-8.jpg" width="720" height="1080"/>
+            <guid isPermaLink="false">slides/Model-8.jpg</guid>
+        </item>
+        <item>
+            <title>Studio-5</title>
+            <link>slides/Studio-5.jpg</link>
+            <pubDate>Sat, 18 Feb 2017 18:21:33 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Studio-5.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/Studio-5.jpg" width="1620" height="1080"/>
+            <guid isPermaLink="false">slides/Studio-5.jpg</guid>
+        </item>
+        <item>
+            <title>Studio-6</title>
+            <link>slides/Studio-6.jpg</link>
+            <pubDate>Sat, 18 Feb 2017 18:21:33 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Studio-6.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/Studio-6.jpg" width="1620" height="1080"/>
+            <guid isPermaLink="false">slides/Studio-6.jpg</guid>
+        </item>
+        <item>
+            <title>FotoReeks-7</title>
+            <link>slides/FotoReeks-7.jpg</link>
+            <pubDate>Sat, 18 Feb 2017 18:21:33 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/FotoReeks-7.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/FotoReeks-7.jpg" width="1620" height="1080"/>
+            <jalbum:exif originalDate="Sat, 26 Nov 2016 09:59:50 +0100" cameraMake="Canon" cameraModel="Canon EOS 5D Mark II"/>
+            <guid isPermaLink="false">slides/FotoReeks-7.jpg</guid>
+        </item>
+        <item>
+            <title>Rotterdam-1</title>
+            <link>slides/Rotterdam-1.jpg</link>
+            <pubDate>Sat, 18 Feb 2017 18:21:33 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Rotterdam-1.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/Rotterdam-1.jpg" width="1620" height="1080"/>
+            <guid isPermaLink="false">slides/Rotterdam-1.jpg</guid>
+        </item>
+        <item>
+            <title>Rotterdam-2</title>
+            <link>slides/Rotterdam-2.jpg</link>
+            <pubDate>Sat, 18 Feb 2017 18:21:33 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Rotterdam-2.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/Rotterdam-2.jpg" width="1620" height="1080"/>
+            <guid isPermaLink="false">slides/Rotterdam-2.jpg</guid>
+        </item>
+        <item>
+            <title>Gent-1</title>
+            <link>slides/Gent-1.jpg</link>
+            <pubDate>Sat, 18 Feb 2017 18:21:33 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Gent-1.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/Gent-1.jpg" width="1620" height="1080"/>
+            <guid isPermaLink="false">slides/Gent-1.jpg</guid>
+        </item>
+        <item>
+            <title>Gent-3</title>
+            <link>slides/Gent-3.jpg</link>
+            <pubDate>Sat, 18 Feb 2017 18:21:33 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Gent-3.jpg" width="124" height="84"/>
+            <media:content type="image/jpeg" url="slides/Gent-3.jpg" width="1602" height="1080"/>
+            <guid isPermaLink="false">slides/Gent-3.jpg</guid>
+        </item>
+        <item>
+            <title>Centrale-1</title>
+            <link>slides/Centrale-1.jpg</link>
+            <pubDate>Sat, 18 Feb 2017 18:21:33 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Centrale-1.jpg" width="83" height="124"/>
+            <media:content type="image/jpeg" url="slides/Centrale-1.jpg" width="720" height="1080"/>
+            <guid isPermaLink="false">slides/Centrale-1.jpg</guid>
+        </item>
+        <item>
+            <title>OostK-1</title>
+            <link>slides/OostK-1.jpg</link>
+            <pubDate>Sat, 18 Feb 2017 18:21:33 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/OostK-1.jpg" width="83" height="124"/>
+            <media:content type="image/jpeg" url="slides/OostK-1.jpg" width="720" height="1080"/>
+            <guid isPermaLink="false">slides/OostK-1.jpg</guid>
+        </item>
+        <item>
+            <title>Riverside-1</title>
+            <link>slides/Riverside-1.jpg</link>
+            <pubDate>Sat, 18 Feb 2017 18:21:33 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Riverside-1.jpg" width="124" height="70"/>
+            <media:content type="image/jpeg" url="slides/Riverside-1.jpg" width="1920" height="1080"/>
+            <guid isPermaLink="false">slides/Riverside-1.jpg</guid>
+        </item>
+        <item>
+            <title>AntwerpenPano-1</title>
+            <link>slides/AntwerpenPano-1.jpg</link>
+            <pubDate>Sat, 18 Feb 2017 18:21:33 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/AntwerpenPano-1.jpg" width="124" height="15"/>
+            <media:content type="image/jpeg" url="slides/AntwerpenPano-1.jpg" width="3000" height="356"/>
+            <guid isPermaLink="false">slides/AntwerpenPano-1.jpg</guid>
+        </item>
+        <item>
+            <title>Model Ruth-1</title>
+            <link>slides/Model%20Ruth-1.jpg</link>
+            <pubDate>Sat, 18 Feb 2017 18:21:33 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Model%20Ruth-1.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Model%20Ruth-1.jpg" width="1080" height="1080"/>
+            <guid isPermaLink="false">slides/Model%20Ruth-1.jpg</guid>
+        </item>
+    </channel>
+</rss>

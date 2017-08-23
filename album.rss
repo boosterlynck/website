@@ -11,7 +11,7 @@
         <item>
             <title>Zwangerschap-4</title>
             <link>slides/Zwangerschap-4.jpg</link>
-            <pubDate>Fri, 11 Aug 2017 17:09:12 +0200</pubDate>
+            <pubDate>Wed, 23 Aug 2017 19:49:32 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Zwangerschap-4.jpg" width="83" height="124"/>
@@ -21,7 +21,7 @@
         <item>
             <title>Studio-1</title>
             <link>slides/Studio-1.jpg</link>
-            <pubDate>Fri, 11 Aug 2017 17:09:12 +0200</pubDate>
+            <pubDate>Wed, 23 Aug 2017 19:49:32 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Studio-1.jpg" width="83" height="124"/>
@@ -29,9 +29,19 @@
             <guid isPermaLink="false">slides/Studio-1.jpg</guid>
         </item>
         <item>
+            <title>Faith-1</title>
+            <link>slides/Faith-1.jpg</link>
+            <pubDate>Wed, 23 Aug 2017 19:49:32 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Faith-1.jpg" width="83" height="124"/>
+            <media:content type="image/jpeg" url="slides/Faith-1.jpg" width="720" height="1080"/>
+            <guid isPermaLink="false">slides/Faith-1.jpg</guid>
+        </item>
+        <item>
             <title>untitled-1</title>
             <link>slides/untitled-1.jpg</link>
-            <pubDate>Fri, 11 Aug 2017 17:09:12 +0200</pubDate>
+            <pubDate>Wed, 23 Aug 2017 19:49:32 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/untitled-1.jpg" width="83" height="124"/>
@@ -39,19 +49,9 @@
             <guid isPermaLink="false">slides/untitled-1.jpg</guid>
         </item>
         <item>
-            <title>untitled-2</title>
-            <link>slides/untitled-2.jpg</link>
-            <pubDate>Fri, 11 Aug 2017 17:09:12 +0200</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/untitled-2.jpg" width="83" height="124"/>
-            <media:content type="image/jpeg" url="slides/untitled-2.jpg" width="720" height="1080"/>
-            <guid isPermaLink="false">slides/untitled-2.jpg</guid>
-        </item>
-        <item>
             <title>Fanny-2</title>
             <link>slides/Fanny-2.jpg</link>
-            <pubDate>Fri, 11 Aug 2017 17:09:12 +0200</pubDate>
+            <pubDate>Wed, 23 Aug 2017 19:49:32 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Fanny-2.jpg" width="124" height="83"/>
@@ -61,7 +61,7 @@
         <item>
             <title>Studio-3</title>
             <link>slides/Studio-3.jpg</link>
-            <pubDate>Fri, 11 Aug 2017 17:09:12 +0200</pubDate>
+            <pubDate>Wed, 23 Aug 2017 19:49:32 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Studio-3.jpg" width="83" height="124"/>
@@ -71,7 +71,7 @@
         <item>
             <title>marlies</title>
             <link>slides/marlies.jpg</link>
-            <pubDate>Fri, 11 Aug 2017 17:09:12 +0200</pubDate>
+            <pubDate>Wed, 23 Aug 2017 19:49:32 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/marlies.jpg" width="83" height="124"/>
@@ -81,7 +81,7 @@
         <item>
             <title>Marlies-3</title>
             <link>slides/Marlies-3.jpg</link>
-            <pubDate>Fri, 11 Aug 2017 17:09:12 +0200</pubDate>
+            <pubDate>Wed, 23 Aug 2017 19:49:32 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Marlies-3.jpg" width="83" height="124"/>
@@ -91,7 +91,7 @@
         <item>
             <title>Jade-9</title>
             <link>slides/Jade-9.jpg</link>
-            <pubDate>Fri, 11 Aug 2017 17:09:12 +0200</pubDate>
+            <pubDate>Wed, 23 Aug 2017 19:49:32 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Jade-9.jpg" width="83" height="124"/>
@@ -101,7 +101,7 @@
         <item>
             <title>CocoVrWebsite-1</title>
             <link>slides/CocoVrWebsite-1.jpg</link>
-            <pubDate>Fri, 11 Aug 2017 17:09:12 +0200</pubDate>
+            <pubDate>Wed, 23 Aug 2017 19:49:32 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/CocoVrWebsite-1.jpg" width="83" height="124"/>
@@ -111,7 +111,7 @@
         <item>
             <title>Studio-4</title>
             <link>slides/Studio-4.jpg</link>
-            <pubDate>Fri, 11 Aug 2017 17:09:12 +0200</pubDate>
+            <pubDate>Wed, 23 Aug 2017 19:49:32 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Studio-4.jpg" width="124" height="83"/>
@@ -121,7 +121,7 @@
         <item>
             <title>Model-8</title>
             <link>slides/Model-8.jpg</link>
-            <pubDate>Fri, 11 Aug 2017 17:09:12 +0200</pubDate>
+            <pubDate>Wed, 23 Aug 2017 19:49:32 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Model-8.jpg" width="83" height="124"/>
@@ -131,7 +131,7 @@
         <item>
             <title>Studio-2</title>
             <link>slides/Studio-2.jpg</link>
-            <pubDate>Fri, 11 Aug 2017 17:09:12 +0200</pubDate>
+            <pubDate>Wed, 23 Aug 2017 19:49:32 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Studio-2.jpg" width="83" height="124"/>
@@ -141,7 +141,7 @@
         <item>
             <title>Zwangerschap-20</title>
             <link>slides/Zwangerschap-20.jpg</link>
-            <pubDate>Fri, 11 Aug 2017 17:09:12 +0200</pubDate>
+            <pubDate>Wed, 23 Aug 2017 19:49:32 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Zwangerschap-20.jpg" width="124" height="83"/>
@@ -151,7 +151,7 @@
         <item>
             <title>Liefde_is-1</title>
             <link>slides/Liefde_is-1.jpg</link>
-            <pubDate>Fri, 11 Aug 2017 17:09:12 +0200</pubDate>
+            <pubDate>Wed, 23 Aug 2017 19:49:32 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Liefde_is-1.jpg" width="83" height="124"/>
@@ -161,7 +161,7 @@
         <item>
             <title>Studio-6</title>
             <link>slides/Studio-6.jpg</link>
-            <pubDate>Fri, 11 Aug 2017 17:09:12 +0200</pubDate>
+            <pubDate>Wed, 23 Aug 2017 19:49:32 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Studio-6.jpg" width="124" height="83"/>
@@ -171,7 +171,7 @@
         <item>
             <title>FotoReeks-7</title>
             <link>slides/FotoReeks-7.jpg</link>
-            <pubDate>Fri, 11 Aug 2017 17:09:12 +0200</pubDate>
+            <pubDate>Wed, 23 Aug 2017 19:49:32 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/FotoReeks-7.jpg" width="124" height="83"/>
@@ -182,7 +182,7 @@
         <item>
             <title>Rotterdam-1</title>
             <link>slides/Rotterdam-1.jpg</link>
-            <pubDate>Fri, 11 Aug 2017 17:09:12 +0200</pubDate>
+            <pubDate>Wed, 23 Aug 2017 19:49:32 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Rotterdam-1.jpg" width="124" height="83"/>
@@ -192,7 +192,7 @@
         <item>
             <title>Rotterdam-2</title>
             <link>slides/Rotterdam-2.jpg</link>
-            <pubDate>Fri, 11 Aug 2017 17:09:12 +0200</pubDate>
+            <pubDate>Wed, 23 Aug 2017 19:49:32 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Rotterdam-2.jpg" width="124" height="83"/>
@@ -202,7 +202,7 @@
         <item>
             <title>Gent-1</title>
             <link>slides/Gent-1.jpg</link>
-            <pubDate>Fri, 11 Aug 2017 17:09:12 +0200</pubDate>
+            <pubDate>Wed, 23 Aug 2017 19:49:32 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Gent-1.jpg" width="124" height="83"/>
@@ -212,7 +212,7 @@
         <item>
             <title>Gent-3</title>
             <link>slides/Gent-3.jpg</link>
-            <pubDate>Fri, 11 Aug 2017 17:09:12 +0200</pubDate>
+            <pubDate>Wed, 23 Aug 2017 19:49:32 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Gent-3.jpg" width="124" height="84"/>
@@ -222,7 +222,7 @@
         <item>
             <title>OostK-1</title>
             <link>slides/OostK-1.jpg</link>
-            <pubDate>Fri, 11 Aug 2017 17:09:12 +0200</pubDate>
+            <pubDate>Wed, 23 Aug 2017 19:49:32 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/OostK-1.jpg" width="83" height="124"/>
@@ -232,7 +232,7 @@
         <item>
             <title>Riverside-1</title>
             <link>slides/Riverside-1.jpg</link>
-            <pubDate>Fri, 11 Aug 2017 17:09:12 +0200</pubDate>
+            <pubDate>Wed, 23 Aug 2017 19:49:32 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Riverside-1.jpg" width="124" height="70"/>
@@ -242,7 +242,7 @@
         <item>
             <title>Model Ruth-1</title>
             <link>slides/Model%20Ruth-1.jpg</link>
-            <pubDate>Fri, 11 Aug 2017 17:09:12 +0200</pubDate>
+            <pubDate>Wed, 23 Aug 2017 19:49:32 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Model%20Ruth-1.jpg" width="124" height="124"/>

@@ -9,89 +9,89 @@
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
-            <title>Zwangerschap-4</title>
-            <link>slides/Zwangerschap-4.jpg</link>
-            <pubDate>Fri, 01 Sep 2017 02:31:54 +0200</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/Zwangerschap-4.jpg" width="83" height="124"/>
-            <media:content type="image/jpeg" url="slides/Zwangerschap-4.jpg" width="720" height="1080"/>
-            <guid isPermaLink="false">slides/Zwangerschap-4.jpg</guid>
-        </item>
-        <item>
             <title>Studio-1</title>
             <link>slides/Studio-1.jpg</link>
-            <pubDate>Fri, 01 Sep 2017 02:31:54 +0200</pubDate>
+            <pubDate>Sat, 16 Dec 2017 00:30:29 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Studio-1.jpg" width="83" height="124"/>
-            <media:content type="image/jpeg" url="slides/Studio-1.jpg" width="720" height="1080"/>
+            <media:content type="image/jpeg" url="slides/Studio-1.jpg" width="683" height="1024"/>
             <guid isPermaLink="false">slides/Studio-1.jpg</guid>
-        </item>
-        <item>
-            <title>Faith-1</title>
-            <link>slides/Faith-1.jpg</link>
-            <pubDate>Fri, 01 Sep 2017 02:31:54 +0200</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/Faith-1.jpg" width="83" height="124"/>
-            <media:content type="image/jpeg" url="slides/Faith-1.jpg" width="720" height="1080"/>
-            <guid isPermaLink="false">slides/Faith-1.jpg</guid>
         </item>
         <item>
             <title>Fanny-2</title>
             <link>slides/Fanny-2.jpg</link>
-            <pubDate>Fri, 01 Sep 2017 02:31:54 +0200</pubDate>
+            <pubDate>Sat, 16 Dec 2017 00:30:29 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Fanny-2.jpg" width="124" height="83"/>
-            <media:content type="image/jpeg" url="slides/Fanny-2.jpg" width="1620" height="1080"/>
+            <media:content type="image/jpeg" url="slides/Fanny-2.jpg" width="1024" height="683"/>
             <guid isPermaLink="false">slides/Fanny-2.jpg</guid>
+        </item>
+        <item>
+            <title>Zwangerschap-4</title>
+            <link>slides/Zwangerschap-4.jpg</link>
+            <pubDate>Sat, 16 Dec 2017 00:30:29 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Zwangerschap-4.jpg" width="83" height="124"/>
+            <media:content type="image/jpeg" url="slides/Zwangerschap-4.jpg" width="683" height="1024"/>
+            <guid isPermaLink="false">slides/Zwangerschap-4.jpg</guid>
+        </item>
+        <item>
+            <title>Faith-1</title>
+            <link>slides/Faith-1.jpg</link>
+            <pubDate>Sat, 16 Dec 2017 00:30:29 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Faith-1.jpg" width="83" height="124"/>
+            <media:content type="image/jpeg" url="slides/Faith-1.jpg" width="683" height="1024"/>
+            <guid isPermaLink="false">slides/Faith-1.jpg</guid>
+        </item>
+        <item>
+            <title>Model Ruth-1</title>
+            <link>slides/Model%20Ruth-1.jpg</link>
+            <pubDate>Sat, 16 Dec 2017 00:30:29 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Model%20Ruth-1.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Model%20Ruth-1.jpg" width="1024" height="1024"/>
+            <guid isPermaLink="false">slides/Model%20Ruth-1.jpg</guid>
         </item>
         <item>
             <title>Rox-2</title>
             <link>slides/Rox-2.jpg</link>
-            <pubDate>Fri, 01 Sep 2017 02:31:54 +0200</pubDate>
+            <pubDate>Sat, 16 Dec 2017 00:30:29 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Rox-2.jpg" width="83" height="124"/>
-            <media:content type="image/jpeg" url="slides/Rox-2.jpg" width="720" height="1080"/>
+            <media:content type="image/jpeg" url="slides/Rox-2.jpg" width="683" height="1024"/>
             <guid isPermaLink="false">slides/Rox-2.jpg</guid>
         </item>
         <item>
-            <title>Rox-1</title>
-            <link>slides/Rox-1.jpg</link>
-            <pubDate>Fri, 01 Sep 2017 02:31:54 +0200</pubDate>
+            <title>Aliah</title>
+            <link>slides/Aliah.jpg</link>
+            <pubDate>Sat, 16 Dec 2017 00:30:29 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/Rox-1.jpg" width="83" height="124"/>
-            <media:content type="image/jpeg" url="slides/Rox-1.jpg" width="720" height="1080"/>
-            <guid isPermaLink="false">slides/Rox-1.jpg</guid>
-        </item>
-        <item>
-            <title>marlies</title>
-            <link>slides/marlies.jpg</link>
-            <pubDate>Fri, 01 Sep 2017 02:31:54 +0200</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/marlies.jpg" width="83" height="124"/>
-            <media:content type="image/jpeg" url="slides/marlies.jpg" width="720" height="1080"/>
-            <guid isPermaLink="false">slides/marlies.jpg</guid>
+            <media:thumbnail url="thumbs/Aliah.jpg" width="124" height="83"/>
+            <media:content type="image/jpeg" url="slides/Aliah.jpg" width="1024" height="683"/>
+            <guid isPermaLink="false">slides/Aliah.jpg</guid>
         </item>
         <item>
             <title>Marlies-3</title>
             <link>slides/Marlies-3.jpg</link>
-            <pubDate>Fri, 01 Sep 2017 02:31:54 +0200</pubDate>
+            <pubDate>Sat, 16 Dec 2017 00:30:29 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Marlies-3.jpg" width="83" height="124"/>
-            <media:content type="image/jpeg" url="slides/Marlies-3.jpg" width="720" height="1080"/>
+            <media:content type="image/jpeg" url="slides/Marlies-3.jpg" width="683" height="1024"/>
             <guid isPermaLink="false">slides/Marlies-3.jpg</guid>
         </item>
         <item>
             <title>Jade-9</title>
             <link>slides/Jade-9.jpg</link>
-            <pubDate>Fri, 01 Sep 2017 02:31:54 +0200</pubDate>
+            <pubDate>Sat, 16 Dec 2017 00:30:29 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Jade-9.jpg" width="83" height="124"/>
@@ -101,142 +101,152 @@
         <item>
             <title>CocoVrWebsite-1</title>
             <link>slides/CocoVrWebsite-1.jpg</link>
-            <pubDate>Fri, 01 Sep 2017 02:31:54 +0200</pubDate>
+            <pubDate>Sat, 16 Dec 2017 00:30:29 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/CocoVrWebsite-1.jpg" width="83" height="124"/>
-            <media:content type="image/jpeg" url="slides/CocoVrWebsite-1.jpg" width="720" height="1080"/>
+            <media:content type="image/jpeg" url="slides/CocoVrWebsite-1.jpg" width="683" height="1024"/>
             <guid isPermaLink="false">slides/CocoVrWebsite-1.jpg</guid>
         </item>
         <item>
             <title>Model-8</title>
             <link>slides/Model-8.jpg</link>
-            <pubDate>Fri, 01 Sep 2017 02:31:54 +0200</pubDate>
+            <pubDate>Sat, 16 Dec 2017 00:30:29 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Model-8.jpg" width="83" height="124"/>
-            <media:content type="image/jpeg" url="slides/Model-8.jpg" width="720" height="1080"/>
+            <media:content type="image/jpeg" url="slides/Model-8.jpg" width="683" height="1024"/>
             <guid isPermaLink="false">slides/Model-8.jpg</guid>
         </item>
         <item>
             <title>Studio-2</title>
             <link>slides/Studio-2.jpg</link>
-            <pubDate>Fri, 01 Sep 2017 02:31:54 +0200</pubDate>
+            <pubDate>Sat, 16 Dec 2017 00:30:29 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Studio-2.jpg" width="83" height="124"/>
-            <media:content type="image/jpeg" url="slides/Studio-2.jpg" width="720" height="1080"/>
+            <media:content type="image/jpeg" url="slides/Studio-2.jpg" width="683" height="1024"/>
             <guid isPermaLink="false">slides/Studio-2.jpg</guid>
         </item>
         <item>
             <title>Zwangerschap-20</title>
             <link>slides/Zwangerschap-20.jpg</link>
-            <pubDate>Fri, 01 Sep 2017 02:31:54 +0200</pubDate>
+            <pubDate>Sat, 16 Dec 2017 00:30:29 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Zwangerschap-20.jpg" width="124" height="83"/>
-            <media:content type="image/jpeg" url="slides/Zwangerschap-20.jpg" width="1620" height="1080"/>
+            <media:content type="image/jpeg" url="slides/Zwangerschap-20.jpg" width="1024" height="683"/>
             <guid isPermaLink="false">slides/Zwangerschap-20.jpg</guid>
         </item>
         <item>
             <title>Liefde_is-1</title>
             <link>slides/Liefde_is-1.jpg</link>
-            <pubDate>Fri, 01 Sep 2017 02:31:54 +0200</pubDate>
+            <pubDate>Sat, 16 Dec 2017 00:30:29 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Liefde_is-1.jpg" width="83" height="124"/>
-            <media:content type="image/jpeg" url="slides/Liefde_is-1.jpg" width="720" height="1080"/>
+            <media:content type="image/jpeg" url="slides/Liefde_is-1.jpg" width="683" height="1024"/>
             <guid isPermaLink="false">slides/Liefde_is-1.jpg</guid>
         </item>
         <item>
             <title>untitled-1</title>
             <link>slides/untitled-1.jpg</link>
-            <pubDate>Fri, 01 Sep 2017 02:31:54 +0200</pubDate>
+            <pubDate>Sat, 16 Dec 2017 00:30:29 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/untitled-1.jpg" width="83" height="124"/>
-            <media:content type="image/jpeg" url="slides/untitled-1.jpg" width="720" height="1080"/>
+            <media:content type="image/jpeg" url="slides/untitled-1.jpg" width="683" height="1024"/>
             <guid isPermaLink="false">slides/untitled-1.jpg</guid>
         </item>
         <item>
             <title>Studio-3</title>
             <link>slides/Studio-3.jpg</link>
-            <pubDate>Fri, 01 Sep 2017 02:31:54 +0200</pubDate>
+            <pubDate>Sat, 16 Dec 2017 00:30:29 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Studio-3.jpg" width="83" height="124"/>
-            <media:content type="image/jpeg" url="slides/Studio-3.jpg" width="720" height="1080"/>
+            <media:content type="image/jpeg" url="slides/Studio-3.jpg" width="683" height="1024"/>
             <guid isPermaLink="false">slides/Studio-3.jpg</guid>
         </item>
         <item>
             <title>Rotterdam-1</title>
             <link>slides/Rotterdam-1.jpg</link>
-            <pubDate>Fri, 01 Sep 2017 02:31:54 +0200</pubDate>
+            <pubDate>Sat, 16 Dec 2017 00:30:29 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Rotterdam-1.jpg" width="124" height="83"/>
-            <media:content type="image/jpeg" url="slides/Rotterdam-1.jpg" width="1620" height="1080"/>
+            <media:content type="image/jpeg" url="slides/Rotterdam-1.jpg" width="1024" height="683"/>
             <guid isPermaLink="false">slides/Rotterdam-1.jpg</guid>
+        </item>
+        <item>
+            <title>Rotterdam-3</title>
+            <link>slides/Rotterdam-3.JPG</link>
+            <pubDate>Sat, 16 Dec 2017 00:30:29 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Rotterdam-3.JPG" width="83" height="124"/>
+            <media:content type="image/jpeg" url="slides/Rotterdam-3.JPG" width="683" height="1024"/>
+            <guid isPermaLink="false">slides/Rotterdam-3.JPG</guid>
         </item>
         <item>
             <title>Rotterdam-2</title>
             <link>slides/Rotterdam-2.jpg</link>
-            <pubDate>Fri, 01 Sep 2017 02:31:54 +0200</pubDate>
+            <pubDate>Sat, 16 Dec 2017 00:30:29 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Rotterdam-2.jpg" width="124" height="83"/>
-            <media:content type="image/jpeg" url="slides/Rotterdam-2.jpg" width="1620" height="1080"/>
+            <media:content type="image/jpeg" url="slides/Rotterdam-2.jpg" width="1024" height="683"/>
             <guid isPermaLink="false">slides/Rotterdam-2.jpg</guid>
         </item>
         <item>
             <title>Gent-1</title>
             <link>slides/Gent-1.jpg</link>
-            <pubDate>Fri, 01 Sep 2017 02:31:54 +0200</pubDate>
+            <pubDate>Sat, 16 Dec 2017 00:30:29 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Gent-1.jpg" width="124" height="83"/>
-            <media:content type="image/jpeg" url="slides/Gent-1.jpg" width="1620" height="1080"/>
+            <media:content type="image/jpeg" url="slides/Gent-1.jpg" width="1024" height="683"/>
             <guid isPermaLink="false">slides/Gent-1.jpg</guid>
         </item>
         <item>
             <title>Gent-3</title>
             <link>slides/Gent-3.jpg</link>
-            <pubDate>Fri, 01 Sep 2017 02:31:54 +0200</pubDate>
+            <pubDate>Sat, 16 Dec 2017 00:30:29 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Gent-3.jpg" width="124" height="84"/>
-            <media:content type="image/jpeg" url="slides/Gent-3.jpg" width="1602" height="1080"/>
+            <media:content type="image/jpeg" url="slides/Gent-3.jpg" width="1024" height="690"/>
             <guid isPermaLink="false">slides/Gent-3.jpg</guid>
         </item>
         <item>
             <title>OostK-1</title>
             <link>slides/OostK-1.jpg</link>
-            <pubDate>Fri, 01 Sep 2017 02:31:54 +0200</pubDate>
+            <pubDate>Sat, 16 Dec 2017 00:30:29 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/OostK-1.jpg" width="83" height="124"/>
-            <media:content type="image/jpeg" url="slides/OostK-1.jpg" width="720" height="1080"/>
+            <media:content type="image/jpeg" url="slides/OostK-1.jpg" width="683" height="1024"/>
             <guid isPermaLink="false">slides/OostK-1.jpg</guid>
         </item>
         <item>
             <title>Riverside-1</title>
             <link>slides/Riverside-1.jpg</link>
-            <pubDate>Fri, 01 Sep 2017 02:31:54 +0200</pubDate>
+            <pubDate>Sat, 16 Dec 2017 00:30:29 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Riverside-1.jpg" width="124" height="70"/>
-            <media:content type="image/jpeg" url="slides/Riverside-1.jpg" width="1920" height="1080"/>
+            <media:content type="image/jpeg" url="slides/Riverside-1.jpg" width="1024" height="576"/>
             <guid isPermaLink="false">slides/Riverside-1.jpg</guid>
         </item>
         <item>
-            <title>Model Ruth-1</title>
-            <link>slides/Model%20Ruth-1.jpg</link>
-            <pubDate>Fri, 01 Sep 2017 02:31:54 +0200</pubDate>
+            <title>Roxanne</title>
+            <link>slides/Roxanne.jpg</link>
+            <pubDate>Sat, 16 Dec 2017 00:30:29 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/Model%20Ruth-1.jpg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/Model%20Ruth-1.jpg" width="1080" height="1080"/>
-            <guid isPermaLink="false">slides/Model%20Ruth-1.jpg</guid>
+            <media:thumbnail url="thumbs/Roxanne.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Roxanne.jpg" width="1024" height="1024"/>
+            <guid isPermaLink="false">slides/Roxanne.jpg</guid>
         </item>
     </channel>
 </rss>

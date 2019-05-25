@@ -5,13 +5,13 @@
     <channel>
         <title>bernard oosterlynck</title>
    	<link>.</link>
-        <generator>jAlbum 13.10</generator>
-   		<description></description>
+        <generator>jAlbum 17</generator>
+   		<description>Model Photographer</description>
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
             <title>Bernard_Oosterlynck_MinhLy</title>
             <link>slides/Bernard_Oosterlynck_MinhLy.JPG</link>
-            <pubDate>Fri, 12 Oct 2018 18:35:15 +0200</pubDate>
+            <pubDate>Sat, 25 May 2019 22:57:46 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Bernard_Oosterlynck_MinhLy.JPG" width="124" height="124"/>
@@ -21,7 +21,7 @@
         <item>
             <title>Studio-1</title>
             <link>slides/Studio-1.jpg</link>
-            <pubDate>Fri, 12 Oct 2018 18:35:15 +0200</pubDate>
+            <pubDate>Sat, 25 May 2019 22:57:46 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Studio-1.jpg" width="83" height="124"/>
@@ -31,7 +31,7 @@
         <item>
             <title>Roxanne</title>
             <link>slides/Roxanne.jpg</link>
-            <pubDate>Fri, 12 Oct 2018 18:35:15 +0200</pubDate>
+            <pubDate>Sat, 25 May 2019 22:57:46 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Roxanne.jpg" width="124" height="124"/>
@@ -41,7 +41,7 @@
         <item>
             <title>Bernard_Oosterlynk_Photography_100</title>
             <link>slides/Bernard_Oosterlynk_Photography_100.JPG</link>
-            <pubDate>Fri, 12 Oct 2018 18:35:15 +0200</pubDate>
+            <pubDate>Sat, 25 May 2019 22:57:46 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Bernard_Oosterlynk_Photography_100.JPG" width="124" height="83"/>
@@ -49,9 +49,19 @@
             <guid isPermaLink="false">slides/Bernard_Oosterlynk_Photography_100.JPG</guid>
         </item>
         <item>
+            <title>Karolien_01 Kleur</title>
+            <link>slides/Karolien_01%20Kleur.JPG</link>
+            <pubDate>Sat, 25 May 2019 22:57:46 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Karolien_01%20Kleur.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/Karolien_01%20Kleur.JPG" width="1024" height="1024"/>
+            <guid isPermaLink="false">slides/Karolien_01%20Kleur.JPG</guid>
+        </item>
+        <item>
             <title>Bernard_Oosterlynk_Photography_101-3</title>
             <link>slides/Bernard_Oosterlynk_Photography_101-3.JPG</link>
-            <pubDate>Fri, 12 Oct 2018 18:35:15 +0200</pubDate>
+            <pubDate>Sat, 25 May 2019 22:57:46 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Bernard_Oosterlynk_Photography_101-3.JPG" width="124" height="124"/>
@@ -61,7 +71,7 @@
         <item>
             <title>Zwangerschap</title>
             <link>slides/Zwangerschap.JPG</link>
-            <pubDate>Fri, 12 Oct 2018 18:35:15 +0200</pubDate>
+            <pubDate>Sat, 25 May 2019 22:57:46 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Zwangerschap.JPG" width="83" height="124"/>
@@ -71,7 +81,7 @@
         <item>
             <title>Marlies-3</title>
             <link>slides/Marlies-3.jpg</link>
-            <pubDate>Fri, 12 Oct 2018 18:35:15 +0200</pubDate>
+            <pubDate>Sat, 25 May 2019 22:57:46 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Marlies-3.jpg" width="83" height="124"/>
@@ -81,7 +91,7 @@
         <item>
             <title>Fanny-2</title>
             <link>slides/Fanny-2.jpg</link>
-            <pubDate>Fri, 12 Oct 2018 18:35:15 +0200</pubDate>
+            <pubDate>Sat, 25 May 2019 22:57:46 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Fanny-2.jpg" width="124" height="83"/>
@@ -91,7 +101,7 @@
         <item>
             <title>Bernard_Oosterlynk_Photography_102</title>
             <link>slides/Bernard_Oosterlynk_Photography_102.JPG</link>
-            <pubDate>Fri, 12 Oct 2018 18:35:15 +0200</pubDate>
+            <pubDate>Sat, 25 May 2019 22:57:46 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Bernard_Oosterlynk_Photography_102.JPG" width="124" height="124"/>
@@ -101,7 +111,7 @@
         <item>
             <title>Model Ruth-1</title>
             <link>slides/Model%20Ruth-1.jpg</link>
-            <pubDate>Fri, 12 Oct 2018 18:35:15 +0200</pubDate>
+            <pubDate>Sat, 25 May 2019 22:57:46 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Model%20Ruth-1.jpg" width="124" height="124"/>
@@ -111,7 +121,7 @@
         <item>
             <title>Faith-1</title>
             <link>slides/Faith-1.jpg</link>
-            <pubDate>Fri, 12 Oct 2018 18:35:15 +0200</pubDate>
+            <pubDate>Sat, 25 May 2019 22:57:46 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Faith-1.jpg" width="83" height="124"/>
@@ -121,7 +131,7 @@
         <item>
             <title>Rox-2</title>
             <link>slides/Rox-2.jpg</link>
-            <pubDate>Fri, 12 Oct 2018 18:35:15 +0200</pubDate>
+            <pubDate>Sat, 25 May 2019 22:57:46 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Rox-2.jpg" width="83" height="124"/>
@@ -131,7 +141,7 @@
         <item>
             <title>Aliah</title>
             <link>slides/Aliah.jpg</link>
-            <pubDate>Fri, 12 Oct 2018 18:35:15 +0200</pubDate>
+            <pubDate>Sat, 25 May 2019 22:57:46 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Aliah.jpg" width="124" height="83"/>
@@ -141,7 +151,7 @@
         <item>
             <title>CamilleVrWebsite-1</title>
             <link>slides/CamilleVrWebsite-1.jpg</link>
-            <pubDate>Fri, 12 Oct 2018 18:35:15 +0200</pubDate>
+            <pubDate>Sat, 25 May 2019 22:57:46 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/CamilleVrWebsite-1.jpg" width="83" height="124"/>
@@ -151,7 +161,7 @@
         <item>
             <title>Bernard_Oosterlynk_Photography_103</title>
             <link>slides/Bernard_Oosterlynk_Photography_103.JPG</link>
-            <pubDate>Fri, 12 Oct 2018 18:35:15 +0200</pubDate>
+            <pubDate>Sat, 25 May 2019 22:57:46 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Bernard_Oosterlynk_Photography_103.JPG" width="83" height="124"/>
@@ -161,7 +171,7 @@
         <item>
             <title>Zwangerschap-4</title>
             <link>slides/Zwangerschap-4.jpg</link>
-            <pubDate>Fri, 12 Oct 2018 18:35:15 +0200</pubDate>
+            <pubDate>Sat, 25 May 2019 22:57:46 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Zwangerschap-4.jpg" width="83" height="124"/>
@@ -171,7 +181,7 @@
         <item>
             <title>Faith_Model</title>
             <link>slides/Faith_Model.JPG</link>
-            <pubDate>Fri, 12 Oct 2018 18:35:15 +0200</pubDate>
+            <pubDate>Sat, 25 May 2019 22:57:46 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Faith_Model.JPG" width="83" height="124"/>
@@ -181,7 +191,7 @@
         <item>
             <title>Studio-2</title>
             <link>slides/Studio-2.jpg</link>
-            <pubDate>Fri, 12 Oct 2018 18:35:15 +0200</pubDate>
+            <pubDate>Sat, 25 May 2019 22:57:46 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Studio-2.jpg" width="83" height="124"/>
@@ -191,7 +201,7 @@
         <item>
             <title>Jade-9</title>
             <link>slides/Jade-9.jpg</link>
-            <pubDate>Fri, 12 Oct 2018 18:35:15 +0200</pubDate>
+            <pubDate>Sat, 25 May 2019 22:57:46 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Jade-9.jpg" width="83" height="124"/>
@@ -201,7 +211,7 @@
         <item>
             <title>Liefde_is-1</title>
             <link>slides/Liefde_is-1.jpg</link>
-            <pubDate>Fri, 12 Oct 2018 18:35:15 +0200</pubDate>
+            <pubDate>Sat, 25 May 2019 22:57:46 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Liefde_is-1.jpg" width="83" height="124"/>
@@ -211,7 +221,7 @@
         <item>
             <title>Model-8</title>
             <link>slides/Model-8.jpg</link>
-            <pubDate>Fri, 12 Oct 2018 18:35:15 +0200</pubDate>
+            <pubDate>Sat, 25 May 2019 22:57:46 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Model-8.jpg" width="83" height="124"/>
@@ -221,7 +231,7 @@
         <item>
             <title>untitled-1</title>
             <link>slides/untitled-1.jpg</link>
-            <pubDate>Fri, 12 Oct 2018 18:35:15 +0200</pubDate>
+            <pubDate>Sat, 25 May 2019 22:57:46 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/untitled-1.jpg" width="83" height="124"/>
@@ -231,7 +241,7 @@
         <item>
             <title>CocoVrWebsite-1</title>
             <link>slides/CocoVrWebsite-1.jpg</link>
-            <pubDate>Fri, 12 Oct 2018 18:35:15 +0200</pubDate>
+            <pubDate>Sat, 25 May 2019 22:57:46 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/CocoVrWebsite-1.jpg" width="83" height="124"/>
@@ -241,7 +251,7 @@
         <item>
             <title>Studio-3</title>
             <link>slides/Studio-3.jpg</link>
-            <pubDate>Fri, 12 Oct 2018 18:35:15 +0200</pubDate>
+            <pubDate>Sat, 25 May 2019 22:57:46 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/Studio-3.jpg" width="83" height="124"/>
@@ -251,7 +261,7 @@
         <item>
             <title>MinhLy-9</title>
             <link>slides/MinhLy-9.JPG</link>
-            <pubDate>Fri, 12 Oct 2018 18:35:15 +0200</pubDate>
+            <pubDate>Sat, 25 May 2019 22:57:46 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/MinhLy-9.JPG" width="124" height="124"/>
